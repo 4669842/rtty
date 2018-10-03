@@ -95,9 +95,6 @@ rtty非常适合远程维护你的或者你公司的部署在全球各地的成�
 
 自动登录: `https://your-server:5912/#/?id=device-id&username=device-username&password=device-password`
 
-## 其他功能
-请点击鼠标右键
-
 ## 远程执行命令
 ### Shell
 

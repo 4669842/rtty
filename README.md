@@ -98,9 +98,6 @@ You can easily embed RTTY into your existing platform: `https://your-server-host
 
 Automatic login: `https://your-server:5912/#/?id=device-id&username=device-username&password=device-password`
 
-## Other functions
-Please click the right mouse button
-
 ## Execute a command remote
 ### Shell
 
